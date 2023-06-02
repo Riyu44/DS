@@ -3,3 +3,32 @@ Lecture -1 (01/06/23)
 Basics, thus we are moving to problem solving.
 
 Lecture 04 (01/06/23)
+
+Lectue 05 (02/06/23)
+
+Bitwise operators work on the bits of integers.
+1s complement = Invert all the bits of the number
+2s complement = Add 1 to the 1s complement 
+
+An integer is represented in 32 bits (4 bytes) and the first place is the sign bit
+to print negative binary number, take 1s complement and than 2s complement
+
+
+& = for 2 and 1 we will have 
+
+1 0
+0 1
+----
+0 0
+
+We need both bits to be 1 in order to make the 
+
+| = OR = Any one bit is one than we will get the answer
+
+~ = NOT = Inverts all the bits
+
+^ = XOR = We need only one of the bits to be 1 and not both of them to return 1
+
+<< = Left shift operator = Makes the bit to move left e.g. --> 5 << 1 will place one zero at the end
+
+>> = Right shift operator = Makes the bit to move ---> Divide the number with 2 number of times the bits are moved.

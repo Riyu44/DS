@@ -5,7 +5,7 @@ Basics, thus we are moving to problem solving.
 Lecture 04 (01/06/23)
 
 Lectue 05 (02/06/23)
-
+-----------------------------------------------------
 Bitwise operators work on the bits of integers.
 1s complement = Invert all the bits of the number
 2s complement = Add 1 to the 1s complement 
@@ -32,3 +32,7 @@ We need both bits to be 1 in order to make the
 << = Left shift operator = Makes the bit to move left e.g. --> 5 << 1 will place one zero at the end
 
 >> = Right shift operator = Makes the bit to move ---> Divide the number with 2 number of times the bits are moved.
+---------------------------------------------------------
+
+Operartor Precendance:
+Look into the table.

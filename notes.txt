@@ -36,3 +36,8 @@ We need both bits to be 1 in order to make the
 
 Operartor Precendance:
 Look into the table.
+
+------------------------------
+
+Lecture-6
+Decimal and Binary number system

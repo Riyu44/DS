@@ -25,3 +25,14 @@ using namespace std;
 //     else{
 //     return false;
 //     }
+
+// Given an array of size n with n-1 integers find the integer that is repeating
+// int main(){
+//     int arr(1000, 0);
+//     sort(arr.begin(), arr.end());
+//     for(int i=0; i<arr.size()-1; i++){
+//         if(arr[i]==arr[i+1]){
+//             return arr[i];
+//         }
+//     }
+// }

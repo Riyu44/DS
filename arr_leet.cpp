@@ -1,3 +1,4 @@
+// Lecture#10
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -36,3 +37,4 @@ using namespace std;
 //         }
 //     }
 // }
+// Another apporoch is to take the xor for the array and take the final answer.

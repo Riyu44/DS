@@ -41,3 +41,12 @@ Look into the table.
 
 Lecture-6
 Decimal and Binary number system
+
+
+--------------------------------
+
+Lecture-12
+Binary Search
+
+Can only be used on sorted monotonic functions.
+Apply on a while loop when (s<=e) and stop when not true
